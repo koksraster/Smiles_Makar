@@ -7,6 +7,4 @@ for i in user_input:
   else:
     string+= i
  
-print(string[::-1])
-    
-  
+print("\n",string[::-1])
